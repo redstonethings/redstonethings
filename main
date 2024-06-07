@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>3D Druck Service from FVSS</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Services</a></li>
+                <li><a href="#">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section class="hero">
+            <h1>3D Druck Service from FVSS</h1>
+            <p>Revolutionizing 3D printing for the future</p>
+            <button>Learn More</button>
+        </section>
+        <section class="features">
+            <h2>Our Features</h2>
+            <ul>
+                <li>
+                    <i class="fas fa-cog"></i>
+                    <h3>High-Quality Prints</h3>
+                    <p>Our 3D printing technology ensures high-quality prints with precise details.</p>
+                </li>
+                <li>
+                    <i class="fas fa-lightning"></i>
+                    <h3>Fast Turnaround</h3>
+                    <p>We offer fast turnaround times to get your prints to you quickly.</p>
+                </li>
+                <li>
+                    <i class="fas fa-lock"></i>
+                    <h3>Secure Printing</h3>
+                    <p>Our printing process is secure and confidential to protect your intellectual property.</p>
+                </li>
+            </ul>
+        </section>
+        <section class="call-to-action">
+            <h2>Get Started Today!</h2>
+            <p>Fill out the form below to get a quote for your 3D printing needs.</p>
+            <form>
+                <input type="text" placeholder="Name">
+                <input type="email" placeholder="Email">
+                <textarea placeholder="Message"></textarea>
+                <button>Send</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 FVSS 3D Druck Service</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
